@@ -1,1 +1,2 @@
-# ansible-lite-data
+debian: 12
+ubuntu: 24.04
